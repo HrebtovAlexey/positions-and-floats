@@ -1,0 +1,20 @@
+/* font-family: "Bebas"; */
+@font-face {
+	font-family: "Bebas";
+	src: url("../fonts/Bebas/Bebas.eot");
+	src: url("../fonts/Bebas/Bebas.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Bebas/Bebas.woff") format("woff"),
+	url("../fonts/Bebas/Bebas.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "StMarie-Thin"; */
+@font-face {
+	font-family: "StMarie-Thin";
+	src: url("../fonts/StMarie-Thin/StMarie-Thin.eot");
+	src: url("../fonts/StMarie-Thin/StMarie-Thin.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/StMarie-Thin/StMarie-Thin.woff") format("woff"),
+	url("../fonts/StMarie-Thin/StMarie-Thin.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
